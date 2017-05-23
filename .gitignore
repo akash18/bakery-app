@@ -1,0 +1,11 @@
+.idea/
+*.iml
+out/
+gen/
+idea-gitignore.jar
+resources/templates.list
+resources/gitignore/*
+build/
+build.properties
+IgnoreLexer.java~
+.gradle
